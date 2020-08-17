@@ -25,6 +25,10 @@
 		"a Cobalt Aegis hardsuit control module" = /obj/item/weapon/rig/combat/ironhammer,
 		"a Lazarus Carbon Reclaimer" = /obj/item/biosyphon,
 		"a S REV .35 Auto \"Sky Driver\"" = /obj/item/weapon/gun/projectile/revolver/sky_driver
+		"a Bluespace Biosyphon" = /obj/item/biosyphon,
+		"a S REV .35 Auto \"Sky Driver\"" = /obj/item/weapon/gun/projectile/revolver/sky_driver,
+		"Von-Krabin Stimulator" = /obj/item/device/von_krabin,
+		"Molitor-Riedel Enricher" = /obj/item/weapon/reagent_containers/enricher
 	)
 
 	var/global/possible_items_special[] = list(
